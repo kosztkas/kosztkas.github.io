@@ -9,7 +9,7 @@
 | Auto Scale | [VM Scale Sets](https://azure.microsoft.com/en-us/services/virtual-machine-scale-sets/) | [Auto Scaling](https://www.alibabacloud.com/product/auto-scaling) | [Auto Scaling](https://aws.amazon.com/autoscaling/) | [Autoscaler](https://cloud.google.com/compute/docs/autoscaler) |
 | Container Management | Container Service for [Kubernetes (AKS)](https://azure.microsoft.com/en-us/services/kubernetes-service/) | [Container Service](https://www.alibabacloud.com/product/container-service) | [Elastic Container Service (ECS)](https://aws.amazon.com/ecs/) | [Containers](https://cloud.google.com/containers) |
 | Pre-emptible VMs | [Azure Batch Compute](https://docs.microsoft.com/en-us/azure/batch/) | [Alibaba Batch Compute](https://www.alibabacloud.com/product/batch-compute?spm=a3c0i.63551.1097638.dnavproductsa14.4c101cddCur1IF) | [AWS Batch](https://aws.amazon.com/batch/) | [Pre-emptible VMs](https://cloud.google.com/preemptible-vms) |
-| High-performance computing** | [Azure HPC](https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing) | [ECHP](https://www.alibabacloud.com/product/ehpc?spm=a2c63.l28256.1097650.dznavproductsa7.348b60e940isnd) | [AWS HPC](https://aws.amazon.com/hpc/) | [HPC](https://cloud.google.com/solutions/hpc) |
+| High-performance computing | [Azure HPC](https://docs.microsoft.com/en-us/azure/architecture/topics/high-performance-computing) | [ECHP](https://www.alibabacloud.com/product/ehpc?spm=a2c63.l28256.1097650.dznavproductsa7.348b60e940isnd) | [AWS HPC](https://aws.amazon.com/hpc/) | [HPC](https://cloud.google.com/solutions/hpc) |
 | Work management | [Azure Batch](https://docs.microsoft.com/en-us/azure/batch/) | [Batch Compute](https://www.alibabacloud.com/product/batch-compute?spm=a2796.11283929.1097650.dzhnavproducts0.39fa31983uEUU1) | [AWS Batch](https://aws.amazon.com/batch/) | [DataFlow](https://cloud.google.com/dataflow) |
 
 ## Storage & CDN
@@ -25,12 +25,12 @@
 ## Networking
 | Description | Azure | Alibaba Cloud | AWS | GCP |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Networking | [Virtual Network (VNET)](https://azure.microsoft.com/en-us/services/virtual-network/) | [Virtual Private Cloud (VPC)](https://www.alibabacloud.com/product/vpc) | [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) | [Virtual Private Cloud (VPC)](https://cloud.google.com/vpc) |
+| Dedicated Connection | [ExpressRoute](https://azure.microsoft.com/en-us/services/expressroute/) | [Express Connect](https://www.alibabacloud.com/product/express-connect) | [Direct Connect](https://aws.amazon.com/directconnect/) | [Cloud Interconnect](https://cloud.google.com/network-connectivity/docs/interconnect/concepts/dedicated-overview) |
+| NAT Gateway | N/A (part of Network Load Balancer) | [NAT Gateway](https://www.alibabacloud.com/product/nat) | [NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html) | [Cloud NAT](https://cloud.google.com/nat/) |
+| Load Balancing | [Load Balancer](https://azure.microsoft.com/en-us/services/load-balancer/) | [Server load Balancer(SLB)](https://www.alibabacloud.com/product/server-load-balancer) | [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) | [Cloud Load Balancing](https://cloud.google.com/load-balancing) |
+| Elastic IP** | Reserved IP | [Elastic IP](https://www.alibabacloud.com/product/eip) | Elastic IP Addresses | [Static IP](https://cloud.google.com/compute/docs/ip-addresses/reserve-static-external-ip-address) |
+| Cross-premises Connectivity | [VPN Gateway](https://azure.microsoft.com/en-us/services/vpn-gateway/) | [VPN Gateway](https://www.alibabacloud.com/product/vpn-gateway) | [VPN Gateway](https://aws.amazon.com/vpn/) | [Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn) |
 
 ## Databases
 | Description | Azure | Alibaba Cloud | AWS | GCP |
