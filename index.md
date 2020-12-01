@@ -23,6 +23,7 @@
 | Hybrid Storage | [StorSimple](https://docs.microsoft.com/en-us/azure/storsimple/) | [Hybrid Cloud Storage Array](https://www.alibabacloud.com/product/storage-array?spm=a3c0i.11401437.1097638.dnavproductsb5.29dd5fbdvZAomK) | [Hybrid Cloud Storage](https://aws.amazon.com/products/storage/hybrid-cloud-storage/) | [Through partners] |
 
 ## Networking
+
 | Description | Azure | Alibaba Cloud | AWS | GCP |
 | --- | --- | --- | --- | --- |
 | Networking | [Virtual Network (VNET)](https://azure.microsoft.com/en-us/services/virtual-network/) | [Virtual Private Cloud (VPC)](https://www.alibabacloud.com/product/vpc) | [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) | [Virtual Private Cloud (VPC)](https://cloud.google.com/vpc) |
@@ -33,14 +34,19 @@
 | Cross-premises Connectivity | [VPN Gateway](https://azure.microsoft.com/en-us/services/vpn-gateway/) | [VPN Gateway](https://www.alibabacloud.com/product/vpn-gateway) | [VPN Gateway](https://aws.amazon.com/vpn/) | [Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn) |
 
 ## Databases
+
 | Description | Azure | Alibaba Cloud | AWS | GCP |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Relational Database | [Azure MySQL](https://azure.microsoft.com/en-us/services/mysql/) / PostgreSQL, Azure SQL, Azure Managed SQL Instances | [ApsaraDB for RDS (MySQL, PostgreSQL, MS SQL), Distributed RDS](https://www.alibabacloud.com/product/apsaradb-for-rds) | [Amazon Aurora](https://aws.amazon.com/rds/aurora/?c=db&amp;sec=srv), [Amazon RDS](https://aws.amazon.com/rds/?c=db&amp;sec=srv)
+ Relational Database Service | [Cloud SQL](https://cloud.google.com/sql),[Spanner](https://cloud.google.com/spanner) |
+| Caching | [Azure Cache Redis](https://azure.microsoft.com/en-us/services/cache/) | [ApsaraDB for Redis/Memcache](https://www.alibabacloud.com/product/apsaradb-for-redis) | [Amazon ElastiCache for Memcached](https://aws.amazon.com/elasticache/memcached/?c=db&amp;sec=srv)[Amazon ElastiCache for Redis](https://aws.amazon.com/elasticache/redis/?c=db&amp;sec=srv) | [Memorystore](https://cloud.google.com/memorystore) |
+| Elastic Data Warehouse | [Azrue Synapse Analytics](https://azure.microsoft.com/en-us/services/synapse-analytics/) | [HybridDB for PostgreSQL](https://www.alibabacloud.com/product/hybriddb-postgresql) |  [Amazon Redshift](https://aws.amazon.com/redshift/?c=db&amp;sec=srv) | [BigQuery](https://cloud.google.com/bigquery) |
+| NoSQL - Document Storage | [CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) for MongoDB,CosmosDB SQL (aka DocumentDB) | [ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb) | [Amazon DocumentDB](https://aws.amazon.com/documentdb/?c=db&amp;sec=srv) | [Firestore](https://cloud.google.com/firestore) |
+| NoSQL – Key/Value | [CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) Table, [CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) Cassandra | [Table Store](https://www.alibabacloud.com/product/table-store?spm=a2796.7990255.247275.17.7c0a61c50lc9oq) | [Amazon DynamoDB](https://aws.amazon.com/dynamodb/?c=db&amp;sec=srv) | [Cloud BigTable](https://cloud.google.com/bigtable) |
+| NoSQL – Graph | [CosmosDB](https://azure.microsoft.com/en-us/services/cosmos-db/) Graph (Tinkerpop, Gremlin) | N/A | [Amazon Neptune](https://aws.amazon.com/neptune/?c=db&amp;sec=srv) | [N/A]() |
+| Time-series Database | [Time Series Insights](https://azure.microsoft.com/en-us/services/time-series-insights/) | [High-Performance Time Series Database](https://www.alibabacloud.com/product/hitsdb?spm=a2796.147402.1097650.dznavproductsd8.53243586Ecs5qw) | [Amazon Timestream](https://aws.amazon.com/timestream/?c=db&amp;sec=srv) | [BigTable?](https://cloud.google.com/bigtable) |
+| Ledger | [Azure Blockchain Tokens](https://azure.microsoft.com/en-us/services/blockchain-tokens/) | N/A | [Amazon QLDB](https://aws.amazon.com/qldb/?c=db&amp;sec=srv) | [Through partners]() |
+| Database Migration | [Database Migration Service](https://azure.microsoft.com/en-us/services/database-migration/) | [Data Transmission Service (DTS)](https://www.alibabacloud.com/product/data-transmission-service) | [Database Migration Services (DMS)](https://aws.amazon.com/dms/) | [Database Migration Service (DMS)](https://cloud.google.com/database-migration) |
 
 ## Security
 | Description | Azure | Alibaba Cloud | AWS | GCP |
