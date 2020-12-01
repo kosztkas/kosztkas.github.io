@@ -48,36 +48,42 @@
 | Database Migration | [Database Migration Service](https://azure.microsoft.com/en-us/services/database-migration/) | [Data Transmission Service (DTS)](https://www.alibabacloud.com/product/data-transmission-service) | [Database Migration Services (DMS)](https://aws.amazon.com/dms/) | [Database Migration Service (DMS)](https://cloud.google.com/database-migration) |
 
 ## Security
+
 | Description | Azure | Alibaba Cloud | AWS | GCP |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
 ## Monitoring & Management
+
 | Description | Azure | Alibaba Cloud | AWS | GCP |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
 ## Domains & Websites
+
 | Description | Azure | Alibaba Cloud | AWS | GCP |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
 ## Analytics
+
 | Description | Azure | Alibaba Cloud | AWS | GCP |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
 ## Application Service
+
 | Description | Azure | Alibaba Cloud | AWS | GCP |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
 
 ## Media Services
+
 | Description | Azure | Alibaba Cloud | AWS | GCP |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
